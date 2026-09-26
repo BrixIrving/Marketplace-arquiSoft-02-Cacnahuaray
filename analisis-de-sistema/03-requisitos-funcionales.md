@@ -11,4 +11,17 @@
 | RF07 | El sistema debe generar una alerta cuando el stock de un producto caiga bajo un umbral definido. |
 | RF08 | El sistema debe emitir y poner a disposición del cliente el comprobante de pago de cada pedido. |
 
+## Relación entre HU y requisitos funcionales
+ 
+| Historia de usuario | Requisitos funcionales relacionados |
+|---|---|
+| HU01 Filtrar catálogo | RF01 |
+| HU02 Publicar producto | RF02 |
+| HU03 Gestionar carrito | RF03 |
+| HU04 Confirmar pedido | RF04 |
+| HU05 Aprobar sellers | RF05 |
+| HU06 Seguimiento de envío | RF06 |
+| HU07 Alerta de stock | RF07 |
+| HU08 Descargar comprobante | RF08 |
+ 
 ---
