@@ -7,5 +7,6 @@
 | DA03 | Protección de datos sensibles de pago | AC04 – Seguridad | Determina cómo se maneja la autenticación y el cifrado en la capa de negocio. |
 | DA04 | Integración con pasarela y logística externas | RC04, RC05 | Condiciona el diseño de adaptadores/integraciones en la capa de negocio. |
 | DA05 | Bajo acoplamiento entre módulos | AC05 – Mantenibilidad | Guía la separación de responsabilidades dentro de la capa de lógica de negocio. |
- 
+| DA06 | El sistema debe permitir modificar funcionalidades sin afectar innecesariamente otros módulos | AC05 – Mantenibilidad | Influye en la separación de responsabilidades, modularidad y dependencias internas. |
+
 ---
