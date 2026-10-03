@@ -1,4 +1,4 @@
-# Enfoque arquitectónico: Clean Architecture
+# Enfoque arquitectónico:
  
 | Elemento | Descripción aplicada al Marketplace |
 |----------|-------------------------------------|

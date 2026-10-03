@@ -1,3 +1,5 @@
+# Arquitectura inicial:
+
 ```mermaid
 flowchart TD
     subgraph ACTORES["ACTORES"]

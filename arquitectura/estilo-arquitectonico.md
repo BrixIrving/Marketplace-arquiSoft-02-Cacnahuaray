@@ -1,4 +1,4 @@
-# 6. Estilo arquitectónico
+# Estilo arquitectónico:
  
 ## Estilo seleccionado
 **Monolito modular + arquitectura en capas, con modelo cliente-servidor (SPA Angular + API REST).**
